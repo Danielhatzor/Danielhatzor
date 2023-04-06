@@ -42,8 +42,8 @@
 </p>
 
 ### GitHub Stats ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielhatzor&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielhatzor&show_icons=true&theme=tokyonight&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-hatzory&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-hatzory&show_icons=true&theme=tokyonight&hide=issues)
 
 
 
